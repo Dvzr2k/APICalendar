@@ -1,0 +1,16 @@
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.deps.json
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.dll
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\bin\Debug\netstandard2.0\Calendar.pdb
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.csproj.AssemblyReference.cache
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.AssemblyInfoInputs.cache
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.AssemblyInfo.cs
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.csproj.CoreCompileInputs.cache
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.dll
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\refint\Calendar.dll
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Calendar.pdb
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\ref\Calendar.dll
+D:\Users\diegu\Source\Repos\Calendar\Calendar\Calendar\obj\Debug\netstandard2.0\Views\EventPage.xaml.g.cs

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QuDsG8pmpISICNwp9NkhWesE0qTwP2BiNWAOYffrrNnidhqg0yfBZ7w6xX2RxPsKMWtmljbUzPdHbiElj2GFg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\diegu\\Source\\Repos\\Calendar\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diegu\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\google.apis.calendar.v3\\1.61.0.3095\\google.apis.calendar.v3.1.61.0.3095.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
